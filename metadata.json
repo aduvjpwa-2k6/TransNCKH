@@ -1,0 +1,6 @@
+{
+  "name": "SciPaper Translator - Trình dịch bài báo khoa học",
+  "description": "Tải lên và dịch bài báo khoa học sang Tiếng Việt chuẩn mực, bảo toàn hoàn hảo định dạng cấu trúc hai cột, công thức LaTeX, bảng dữ liệu và trích dẫn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
